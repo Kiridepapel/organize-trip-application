@@ -1,0 +1,26 @@
+[
+    {
+        "imgUrl": "/assets/images/unknown.png",
+        "name": "John Doe",
+        "comment": "Gran servicio, ¡definitivamente regresaré! Súper recomendado para todo aquel que quiera pasar un buen rato y disfrutar de una rica comida con amigos y familiares.",
+        "rating": 3,
+        "date": "01-03-2024",
+        "time": "05:11"
+    },
+    {
+        "imgUrl": "/assets/images/unknown.png",
+        "name": "Jane Smith",
+        "comment": "La pasé muy bien con mis amigos, la comida estuvo deliciosa y el servicio excelente. ¡Definitivamente regresaré! Definitivamente recomendado y súper asequible si quieres pasar un buen rato con amigos y familiares sin gastar mucho dinero en comida. ¡Para mí es un viaje de 5 estrellas y definitivamente regresaré!",
+        "rating": 5,
+        "date": "05-03-2024",
+        "time": "17:22"
+    },
+    {
+        "imgUrl": "/assets/images/unknown.png",
+        "name": "Carlos Ruiz",
+        "comment": "Comida deliciosa y excelente servicio. ¡Definitivamente regresaré! Súper recomendado para todo aquel que quiera pasar un buen rato y disfrutar de una rica comida con amigos y familiares.",
+        "rating": 5,
+        "date": "08-03-2024",
+        "time": "14:45"
+    }
+]
